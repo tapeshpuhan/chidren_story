@@ -1,0 +1,27 @@
+Missing sentence
+1.1
+
+1. 
+Present 		: Martin spricht kein Englisch. 
+Past 			: Martin sprach kein Englisch. 
+Present Perfect : Martin hat kein Englisch gesprochen. 
+Future 			: Martin wird kein Englisch sprechen.
+
+2. 
+Present 		: Ich kann es machen.
+Past 			: Ich konnte es machen. 
+Present Perfect : Ich habe es machen können.
+Future 			: Ich werde es machen können.
+
+3.
+Present 		: Eine Schlange frisst den Frosch.
+Past 			: Eine Schlange fraß den Frosch.
+Present Perfect : Eine Schlange hat den Frosch gefressen.
+Future 			: Eine Schlange wird den Frosch fressen.
+
+4.
+Present 		: über dem Wald fliegen viele Vögel.
+Past 			: über dem Wald flogen viele Vögel.
+Present Perfect : über dem Wald sind viele Vögel geflogen.
+Future 			: über dem Wald werden viele Vögel fliegen.
+
