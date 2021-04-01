@@ -1,0 +1,27 @@
+Ä/ä, Ö/ö, Ü/ü ß
+
+Zeitangaben
+
+Ordern Sie die Zeitangaben
+
+der Montag
+der Dienstag
+der Mittwoch
+der Donnerstag
+der Freitag
+der Samtag
+der Sonntag
+
+der Morgen
+der Vormittag
+der Mittag
+der Nachmittag
+der Abend
+die Nacht
+
+vorgestern
+gestren
+heute
+morgen
+Übermorgen
+
